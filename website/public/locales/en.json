@@ -37,7 +37,7 @@
   },
   "result": {
     "title": "Secret stored in database",
-    "subtitleDownloadOnce": "Remember that secrets can only be downloaded once if not set otherwise. So do not open the link yourself.",
+    "subtitleDownloadOnce": "Secrets can only be downloaded once if not set otherwise. So do not open the link yourself.",
     "subtitleChannel": "The cautious should send the decryption key in a separate communication channel.",
     "rowLabelOneClick": "One-click link",
     "rowLabelShortLink": "Short link",
@@ -71,8 +71,8 @@
     "optionOneWeekLabel": "One Week"
   },
  "features": {
-    "title": "Share Secrets Securely With Ease",
-    "subtitle": "Yopass is created to reduce the amount of clear text passwords stored in email and chat conversations by encrypting and generating a short lived link which can only be viewed once.",
+    "title": "Share your Secrets Securely With Ease. (Just don't share anything illegal.).",
+    "subtitle": "Reduce the amount of clear text passwords stored in email and chat conversations by encrypting and generating a short lived link which can only be viewed once.",
     "featureEndToEndTitle": "End-to-end Encryption",
     "featureEndToEndText": "Encryption and decryption are being made locally in the browser. The key is never stored with yopass.",
     "featureSelfDestructionTitle": "Self destruction",
@@ -80,11 +80,11 @@
     "featureOneTimeTitle": "One-time downloads",
     "featureOneTimeText": "The encrypted message can only be downloaded once which reduces the risk of someone peeking at your secrets.",
     "featureSimpleSharingTitle": "Simple Sharing",
-    "featureSimpleSharingText": "Yopass generates a unique one click link for the encrypted file or message. The decryption password can alternatively be sent separately.",
+    "featureSimpleSharingText": "AsturSHARE generates a unique one click link for the encrypted file or message. The decryption password can alternatively be sent separately.",
     "featureNoAccountsTitle": "No accounts needed",
     "featureNoAccountsText": "Sharing should be quick and easy; No additional information except the encrypted secret is stored in the database.",
     "featureOpenSourceTitle": "Open Source Software",
-    "featureOpenSourceText": "Yopass encryption mechanism are built on open source software meaning full transparency with the possibility to audit and submit features."
+    "featureOpenSourceText": "AsturSHARE encryption mechanism are built on open source software meaning full transparency with the possibility to audit and submit features."
   },
   "header": {
     "buttonHome": "Home",
